@@ -1,0 +1,122 @@
+{
+  "fatal error": {
+    "en": "😱 Oops! An internal server error occurred. Our admins have been notified! 🚨",
+    "uz": "😱 Afsuski, ichki server xatosi yuz berdi. Administratorlarimiz xabardor qilindi! 🚨",
+    "ru": "😱 Ой-ой! Произошла внутренняя ошибка сервера. Наши администраторы уведомлены! 🚨"
+  },
+  "success in addData: $1{category_type}, $2{category}, $3{amount}, $4{currency}, $5{quantity}, $6{measure}, $7{usd_rate}, $8{comment}": {
+    "en": "🎉 Woohoo! The data was <b>successfully inserted</b> into the spreadsheet.\n\nCategory group: <b>$1</b>\nCategory: <b>$2</b>\nAmount: <b>$3 $4</b>\nQuantity: <b>$5 $6\nUSD Rate: <b>$7</b>\nComment: <b>$8</b>",
+    "uz": "🎉 Urra! Ma'lumotlar jadvalga <b>muvaffaqiyatli kiritildi</b>.\n\nToifa guruhi: <b>$1</b>\nToifa: <b>$2</b>\nXarajat: <b>$3 $4</b>\nMiqdori: <b>$5 $6</b>\n$ kursi: <b>$7</b>\nIzoh: <b>$8</b>",
+    "ru": "✨ Та-да! Данные <b>успешно обновлены</b> в таблице.\n\nГруппа категорий: <b>$1</b>\nКатегория: <b>$2</b>\nСумма: <b>$3 $4</b>\nКоличество: <b>$5 $6</b>\nКурс $: <b>$7</b>\nКомментарий: <b>$8</b>"
+  },
+  "error in addData": {
+    "en": "😔 Oh no! I <b>couldn't</b> insert the data into the spreadsheet. Let's try again, shall we? 🔄",
+    "uz": "😔 Voy! Ma'lumotlarni jadvalga <b>joylashtirib bo'lmadi</b>. Yana bir bor urinib ko'ramizmi? 🔄",
+    "ru": "😔 Ой! Не удалось <b>вставить</b> данные в таблицу. Может, попробуем еще раз? 🔄"
+  },
+  "success in editData: $1{category_type}, $2{category}, $3{amount}, $4{currency}, $5{quantity}, $6{measure}, $7{usd_rate}, $8{comment}": {
+    "en": "✨ Ta-da! The data was <b>successfully updated</b> in the spreadsheet.\n\nCategory group: <b>$1</b>\nCategory: <b>$2</b>\nAmount: <b>$3 $4</b>\nQuantity: <b>$5 $6\nUSD Rate: <b>$7</b>\nComment: <b>$8</b>",
+    "uz": "✨ Ta-da! Ma'lumotlar jadvalda <b>muvaffaqiyatli yangilandi</b>.\n\nToifa guruhi: <b>$1</b>\nToifa: <b>$2</b>\nXarajat: <b>$3 $4</b>\nMiqdori: <b>$5 $6</b>\n$ kursi: <b>$7</b>\nIzoh: <b>$8</b>",
+    "ru": "✨ Та-да! Данные <b>успешно обновлены</b> в таблице.\n\nГруппа категорий: <b>$1</b>\nКатегория: <b>$2</b>\nСумма: <b>$3 $4</b>\nКоличество: <b>$5 $6</b>\nКурс $: <b>$7</b>\nКомментарий: <b>$8</b>"
+  },
+  "error in editData": {
+    "en": "😕 Uh-oh! I <b>couldn't</b> update the data in the spreadsheet",
+    "uz": "😕 Voy! Ma'lumotlarni jadvalda <b>yangilab bo'lmadi</b>",
+    "ru": "😕 Ой-ой! Не удалось <b>обновить</b> данные в таблице"
+  },
+  "success in deleteData": {
+    "en": "🗑️ Poof! The data was <b>successfully deleted</b> from the spreadsheet. Nice and tidy! ✨",
+    "uz": "🗑️ Lip etib! Ma'lumotlar jadvaldan <b>muvaffaqiyatli o'chirildi</b>. Endi hammasi tartibli! ✨",
+    "ru": "🗑️ Пуф! Данные <b>успешно удалены</b> из таблицы. Теперь всё аккуратно! ✨"
+  },
+  "error in deleteData": {
+    "en": "😖 Yikes! I <b>couldn't</b> delete the data from the spreadsheet. Don't worry, we'll figure it out! 🕵️",
+    "uz": "😖 Obbo! Ma'lumotlarni jadvaldan <b>o'chirib tashlab bo'lmadi</b>. Xavotir olmang, buni hal qilamiz! 🕵️",
+    "ru": "😖 Ой! Не удалось <b>удалить</b> данные из таблицы. Не волнуйтесь, мы разберемся! 🕵️"
+  },
+  "private: $1{first_name} $2{last_name}": {
+    "en": "👤 $1 $2",
+    "uz": "👤 $1 $2",
+    "ru": "👤 $1 $2"
+  },
+  "group: $1{title}": {
+    "en": "👥 $1",
+    "uz": "👥 $1",
+    "ru": "👥 $1"
+  },
+  "channel: $1{title}": {
+    "en": "📢 $1",
+    "uz": "📢 $1",
+    "ru": "📢 $1"
+  },
+  "unknown chat type": {
+    "en": "❓ Unknown chat type. Intriguing! 🧐",
+    "uz": "❓ Noma'lum chat turi. Qiziq! 🧐",
+    "ru": "❓ Неизвестный тип чата. Интересно! 🧐"
+  },
+  "delete": {
+    "en": "🗑️ Delete",
+    "uz": "🗑️ O'chirish",
+    "ru": "🗑️ Удалить"
+  },
+  "january": {
+    "en": "January",
+    "uz": "Yanvar",
+    "ru": "Январь"
+  },
+  "february": {
+    "en": "February",
+    "uz": "Fevral",
+    "ru": "Февраль"
+  },
+  "march": {
+    "en": "March",
+    "uz": "Mart",
+    "ru": "Март"
+  },
+  "april": {
+    "en": "April",
+    "uz": "Aprel",
+    "ru": "Апрель"
+  },
+  "may": {
+    "en": "May",
+    "uz": "May",
+    "ru": "Май"
+  },
+  "june": {
+    "en": "June",
+    "uz": "Iyun",
+    "ru": "Июнь"
+  },
+  "july": {
+    "en": "July",
+    "uz": "Iyul",
+    "ru": "Июль"
+  },
+  "august": {
+    "en": "August",
+    "uz": "Avgust",
+    "ru": "Август"
+  },
+  "september": {
+    "en": "September",
+    "uz": "Sentabr",
+    "ru": "Сентябрь"
+  },
+  "october": {
+    "en": "October",
+    "uz": "Oktabr",
+    "ru": "Октябрь"
+  },
+  "november": {
+    "en": "November",
+    "uz": "Noyabr",
+    "ru": "Ноябрь"
+  },
+  "december": {
+    "en": "December",
+    "uz": "Dekabr",
+    "ru": "Декабрь"
+  }
+}
